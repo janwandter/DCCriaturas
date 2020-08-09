@@ -1,0 +1,4 @@
+*.csv
+*.pdf
+!diagrama.pdf
+__pycache__/

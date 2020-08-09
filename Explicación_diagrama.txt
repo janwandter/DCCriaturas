@@ -1,0 +1,3 @@
+En main se ejecuta el programa. Lo que se hace es tener los menu como strigs y a prueba de errores. Desde la clase menú se generan nuevos magizoologos, es por eso su conexión. Posteriormente DCC se ejecuta una función para cargar los archivos de magizoologos y criaturas, he ahí su conexión. Hartas criaturas se pueden asignar a un magizoologo pero son entidades independientes. 
+Para los magizoologos, se heredan los 3 tipos que tienen distintos aportesn en alimentar, recuperar y habilidad esepcial
+Por el lado de criaturas solo se diferencian los métodos de hambre_dia (a los cuantos días sin comer cambia su hambre) y la habiliadad especial
